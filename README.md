@@ -10,4 +10,4 @@ A Mosaic Layout with CSS Grids
   ![Desktop View](/images/desktop.PNG?raw=true)
 
 #### Mobile View
-  ![Mobile_Uno](/images/desktop.PNG?raw=true)  ![Mobile_Dos](/images/desktop.PNG?raw=true)
+  ![Mobile_Uno](/images/mobile.PNG?raw=true)  ![Mobile_Dos](/images/mobile_dos.PNG?raw=true)
