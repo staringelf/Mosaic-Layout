@@ -6,10 +6,6 @@ A Mosaic Layout with CSS Grids
 
 ## Views
 
-#### Desktop 
+#### Screenshot
 
   ![Desktop View](/images/desktop.PNG?raw=true)
-
-#### Mobile View
-
-  ![Mobile_Uno](/images/mobile.PNG?raw=true)       
